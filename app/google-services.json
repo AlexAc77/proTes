@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "229797080359",
+    "firebase_url": "https://protes-c4442.firebaseio.com",
+    "project_id": "protes-c4442",
+    "storage_bucket": "protes-c4442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229797080359:android:3472d0a183ce26dbe38d02",
+        "android_client_info": {
+          "package_name": "com.example.protes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229797080359-l78d370fi7b35cprf0f5ct4etmcuu3rn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.protes",
+            "certificate_hash": "93fd9af8e87b5635137c8a8c5d6dc2d7ef39b09d"
+          }
+        },
+        {
+          "client_id": "229797080359-j7fvj0e9elk24b6h960mfmcv8mhfh70v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIQBELfUmwAkf1jzw1umYOIryPk_mzOug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229797080359-j7fvj0e9elk24b6h960mfmcv8mhfh70v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
